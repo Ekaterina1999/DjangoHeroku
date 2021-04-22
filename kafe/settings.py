@@ -88,7 +88,7 @@ DATABASES = {
          'NAME': BASE_DIR / 'db.sqlite3',
 
 'HOST': 'ec2-34-254-69-72.eu-west-1.compute.amazonaws.com',
-'DATABASeE': 'd2e4dkvajaklf8',
+'DATABASE': 'd2e4dkvajaklf8',
 'USER':'yvkxsdkosrjmqv',
 'PORT': 5432,
 'PASSWORD': 'dfe6ae04b221958fe8bdd3b79a8971af8d1ed8d5d1c34e8aa26f9432ff06ccb2',
